@@ -11,14 +11,14 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
  <br />
-
+<br>
 <a href="https://github.com/hackcoderr/github-readme-stats">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=RaghavGit84&show_icons=true&include_all_commits=true&theme=radical" alt="raghav's github stats" />
-</a>
+</a><br><br>
 <a href="https://github.com/RaghavGit84/github-readme-stats">
  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=RaghavGit84&layout=compact&theme=radical" />
 </a> 
-
+<br><br>
 <!-- 
 ## Languages and Tools 🛠 
 <img align='left' src='https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif' width='250"'>
