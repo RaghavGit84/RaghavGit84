@@ -13,10 +13,10 @@
  <br />
 <br>
 <a href="https://github.com/hackcoderr/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=RaghavGit84&show_icons=true&include_all_commits=true&theme=radical" alt="raghav's github stats" />
-</a><br><br>
+  <img align="center" width="50%" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=RaghavGit84&show_icons=true&include_all_commits=true&theme=radical" alt="raghav's github stats" />
+</a>
 <a href="https://github.com/RaghavGit84/github-readme-stats">
- <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=RaghavGit84&layout=compact&theme=radical" />
+ <img align="center" width="40%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=RaghavGit84&layout=compact&theme=radical" />
 </a> 
 <br><br>
 <!-- 
